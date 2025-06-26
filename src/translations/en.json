@@ -1,0 +1,76 @@
+{
+    "header": {
+        "services": "Services",
+        "plataforms": "Plataforms",
+        "courses": "Courses",
+        "contact": "Contact"
+    },
+    "iconsAndDescriptions": {
+        "SF_title": "Software Factory",
+        "QA_title": "Quality Assurance",
+        "RM_title": "Release Management",
+        "CS_title": "Consulting Services"
+    },
+    "carouselItemAndDescriptions": {
+        "softwareFactory": "Software Factory",
+        "dependingOnYourNeeds": "Depending on your needs, we can take care of the analysis of a need, the solution design for your requirements, or just the construction of your project.",
+        "qualityAssurance": "Quality Assurance",
+        "releaseManagement": "Release Management",
+        "ourQaExperts": "Our QA experts have the ability for both auditing and debugging your code in a variety of languages, as well as designing test protocols in order to keep your code up to industry standards and best practices.",
+        "consultingServices": "Consulting Services",
+        "ItIsThePersonalAssistance": "It is the personal assistance that the library provides to members of the legislature in searching, locating and retrieving specific information to meet their research needs.",
+        "softwareFactoryText": "Increase quality, enhance productivity, and improve application release cadence with Software Factory as a Service.",
+        "qualityAssuranceText": "Ensure your products meet the quality standards of top companies and industries. We perform functional analysis, define new processes and checklists, and execute test cases.",
+        "releaseManagementText": "We define and configure your platform to implement automated and continuous integration/deployments in order to keep your processes fluid and effortless.",
+        "consultingServicesText": "We help you identify the steps to follow on your new implementation, system migration, or new process definitions in your company."
+    },
+    "theRealBitforce": {
+        "title1": "Discovery & Architecture",
+        "desc1": "Our certified professionals will help you find the best solution for your business. The experience in different platforms and industries makes us the best choice for Consulting and Discovery.",
+        "title2": "High Quality Teams",
+        "desc2": "We select our teams based on your business needs. Management, Architecture, Development, Integration and Quality Assurance. The right professional for the right project.",
+        "title3": "BitForce Academy",
+        "desc3": "Twice a year, we offer free courses to initiate people in the IT world. Our experienced professionals share their knowledge in free and paid instances. Once the courses finish, we select the best students as part of our trainee program so they can have their first real-world experience."
+    },
+    "clients": {
+        "title": "Some of our clients",
+        "desc": "These are some of the companies that trusted us for new implementations, custom applications, and general improvements."
+    },
+    "coursesAndDescriptions": {
+        "title": "Courses",
+        "desc1": "Our courses are designed and given by our professionals, and they will get you ready for a real professional IT career.",
+        "desc2": "All courses are on-site at our offices located in Monte Grande, Buenos Aires, Argentina, and some of them are also available by stream.",
+        "desc3": "The BitForce Trainee Program offers the best students in our courses their first real-world experience in IT.",
+        "button": "More Information"
+    },
+    "contactUsAndDescriptions": {
+        "contactUs": "Contact Us",
+        "placeholderName": "Name",
+        "pleaseProvideAValidName": "Please provide a name",
+        "placeholderEmail": "Email",
+        "pleaseProvideAValidEmailAddress": "Please provide a valid email address",
+        "placeholderSubject": "Subject",
+        "pleaseProvideAValidSubject": "Please provide a subject",
+        "writeAMessage": "Write a message",
+        "pleaseProvideAMessage": "Please provide a message",
+        "sendMessage": "Send Message"
+    },
+    "footer": {
+        "services": "Services",
+        "softwareFactory": "Software Factory",
+        "qualityAssurance": "Quality Assurance",
+        "consultingServices": "Consulting Services",
+        "platforms": "Platforms",
+        "amazonWeb": "Amazon Web Services",
+        "salesforce": "Salesforce",
+        "customNodeJS": "Custom NodeJS",
+        "releaseManagement": "Release Management",
+        "contact": "Contact",
+        "phone": "Phone",
+        "email": "Email"
+    },
+    "languageSelector": {
+        "english": "English",
+        "spanish": "Spanish"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "header": {
+        "services": "Servicios",
+        "plataforms": "Plataformas",
+        "courses": "Cursos",
+        "contact": "Contacto"
+    },
+    "iconsAndDescriptions": {
+        "SF_title": "Software Factory",
+        "QA_title": "Quality Assurance",
+        "RM_title": "Release Management",
+        "CS_title": "Consulting Services"
+    },
+    "carouselItemAndDescriptions": {
+        "softwareFactory": "Software Factory",
+        "dependingOnYourNeeds": "Dependiendo de sus necesidades, podemos encargarnos del análisis de una necesidad, el diseño de la solución a sus requerimientos o simplemente la construcción de su proyecto.",
+        "qualityAssurance": "Quality Assurance",
+        "releaseManagement": "Release Management",
+        "ourQaExperts": "Nuestros expertos en control de calidad tienen la capacidad de auditar y depurar su código en una variedad de lenguajes, así como de diseñar protocolos de prueba para mantener su código acorde a los estándares y las mejores prácticas de la industria.",
+        "consultingServices": "Servicios de consultoría",
+        "ItIsThePersonalAssistance": "Es la asistencia personal que la biblioteca brinda a los miembros de la legislatura en la búsqueda, localización y recuperación de información específica para satisfacer sus necesidades de investigación.",
+        "softwareFactoryText": "Aumente la calidad, mejore la productividad y mejore la cadencia de lanzamiento de aplicaciones con Software Factory as a Service.",
+        "qualityAssuranceText": "Nos aseguramos de que sus productos cumplan con los estándares de calidad de las principales empresas e industrias.",
+        "releaseManagementText": "Definimos y configuramos su plataforma para implementar CI/CD con el fin de mantener sus procesos lo más fluidos posibles con el menor esfuerzo.",
+        "consultingServicesText": "Le ayudamos a identificar cuáles son los pasos a seguir en tu nueva implementación, migración de sistemas o nuevas definiciones de procesos en su empresa."
+    },
+    "theRealBitforce": {
+        "title1": "Discovery & Architecture",
+        "desc1": "Nuestros profesionales certificados lo ayudarán a encontrar la mejor solución para su negocio. La experiencia en diferentes plataformas e industrias nos convierte en su mejor opción para consultoría general y project discoveries.",
+        "title2": "Equipos de Calidad",
+        "desc2": "Seleccionamos al mejor equipo basándonos en las necesidades de su negocio. Management, Arquitectura, Desarrollo, Integraciones y QA. El profesional correcto para el proyecto correcto.",
+        "title3": "BitForce Academy",
+        "desc3": "Dos veces al año, damos cursos gratuitos para iniciar a personas en el mundo de IT. Nuestros experimentados profesionales comparten sus conocimientos en cursos gratuitos y pagos. Una vez terminados los cursos, elegimos a los mejores estudiantes para que formen parte de nuestro Trainee Program, y así darles su primera experiencia profesional."
+    },
+    "clients": {
+        "title": "Algunos de nuestros clientes",
+        "desc": "Estos son algunas de las empresas que confiaron en nosotros para nuevas implementaciones, aplicaciones personalizadas, o mejoras generales."
+    },
+    "coursesAndDescriptions": {
+        "title": "Courses",
+        "desc1": "Nuestros cursos están diseñados y dados por nuestros expertos, y le dejarán listo para iniciar una carrera profesional en IT.",
+        "desc2": "Para estos cursos utilizamos nuestras oficinas en Monte Grande, Buenos Aires, Argentina, y algunos están disponibles también por stream",
+        "desc3": "En nuestro programa de trainees seleccionamos a los mejores estudiantes para ofrecerles su primera experiencia real de trabajo.",
+        "button": "Más Información"
+    },
+    "contactUsAndDescriptions": {
+        "contactUs": "Contáctenos",
+        "placeholderName": "Nombre",
+        "pleaseProvideAValidName": "Por favor proporcione un nombre válido",
+        "placeholderEmail": "Correo electrónico",
+        "pleaseProvideAValidEmailAddress": "Por favor ingrese una dirección de correo electrónico válida",
+        "placeholderSubject": "Asunto",
+        "pleaseProvideAValidSubject": "Por favor ingrese un asunto",
+        "writeAMessage": "Escriba un mensaje",
+        "pleaseProvideAMessage": "Por favor proporcione un mensaje",
+        "sendMessage": "Enviar mensaje"
+    },
+    "footer": {
+        "services": "Servicios",
+        "softwareFactory": "Software Factory",
+        "qualityAssurance": "Quality Assurance",
+        "consultingServices": "Consulting Services",
+        "releaseManagement": "Release Management",
+        "platforms": "Plataformas",
+        "amazonWeb": "Amazon Web Services",
+        "salesforce": "Salesforce",
+        "customNodeJS": "Custom NodeJS",
+        "contact": "Contacto",
+        "phone": "Teléfono",
+        "email": "Correo electrónico"
+    },
+    "languageSelector": {
+        "english": "Inglés",
+        "spanish": "Español"
+    }
+}
